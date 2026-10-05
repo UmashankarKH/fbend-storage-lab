@@ -1,0 +1,72 @@
+[
+  {
+    "sku": "P-101",
+    "name": "Air Fryer 4.5L",
+    "category": "Kitchen Appliances",
+    "price_inr": 5499,
+    "warranty_years": 1
+  },
+  {
+    "sku": "P-102",
+    "name": "Mixer Grinder 750W",
+    "category": "Kitchen Appliances",
+    "price_inr": 3899,
+    "warranty_years": 1
+  },
+  {
+    "sku": "P-103",
+    "name": "Electric Kettle 1.5L",
+    "category": "Kitchen Appliances",
+    "price_inr": 1299,
+    "warranty_years": 1
+  },
+  {
+    "sku": "P-104",
+    "name": "Microwave Oven 25L",
+    "category": "Kitchen Appliances",
+    "price_inr": 8999,
+    "warranty_years": 1
+  },
+  {
+    "sku": "P-201",
+    "name": "6-Seater Dining Table (Sheesham)",
+    "category": "Furniture",
+    "price_inr": 32999,
+    "warranty_years": 2
+  },
+  {
+    "sku": "P-202",
+    "name": "3-Seater Fabric Sofa",
+    "category": "Furniture",
+    "price_inr": 27499,
+    "warranty_years": 2
+  },
+  {
+    "sku": "P-203",
+    "name": "Study Desk with Drawer",
+    "category": "Furniture",
+    "price_inr": 7999,
+    "warranty_years": 2
+  },
+  {
+    "sku": "P-301",
+    "name": "Orthopaedic Mattress Queen",
+    "category": "Mattresses",
+    "price_inr": 18999,
+    "warranty_years": 5
+  },
+  {
+    "sku": "P-401",
+    "name": "Induction Cookware Set (5 pc)",
+    "category": "Cookware",
+    "price_inr": 4299,
+    "warranty_years": 1
+  },
+  {
+    "sku": "P-402",
+    "name": "Cast Iron Skillet 26cm",
+    "category": "Cookware",
+    "price_inr": 1899,
+    "warranty_years": 1
+  }
+]

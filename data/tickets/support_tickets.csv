@@ -1,0 +1,41 @@
+ticket_id,created_at,channel,category,priority,customer_tier,message,status
+TCK-1001,2026-09-05,app,warranty,High,Gold,Mattress is sagging after 2 years.,Pending customer
+TCK-1002,2026-09-12,email,refund,High,Gold,"I want to return the mixer grinder, it is unused.",Open
+TCK-1003,2026-09-14,email,product,Low,Gold,Is the cookware set induction compatible?,Open
+TCK-1004,2026-09-08,email,refund,High,Standard,"Opened the kettle and it is defective, need refund.",Open
+TCK-1005,2026-09-02,chat,shipping,Medium,Silver,Do you deliver to Coimbatore by tomorrow?,Pending customer
+TCK-1006,2026-09-19,phone,refund,High,Standard,Refund not received after 10 days.,Open
+TCK-1007,2026-09-12,email,shipping,High,Standard,Where is my order? No tracking link yet.,Pending customer
+TCK-1008,2026-09-20,chat,refund,Medium,Standard,"Opened the kettle and it is defective, need refund.",Resolved
+TCK-1009,2026-09-19,app,product,Medium,Silver,What is the capacity of the air fryer?,Open
+TCK-1010,2026-09-03,phone,shipping,High,Silver,Express delivery was late by 2 days.,Pending customer
+TCK-1011,2026-09-10,email,product,Low,Standard,Is the cookware set induction compatible?,Open
+TCK-1012,2026-09-05,app,warranty,Medium,Gold,Mattress is sagging after 2 years.,Pending customer
+TCK-1013,2026-09-11,phone,warranty,High,Silver,"Got the blender repaired locally, warranty still valid?",Open
+TCK-1014,2026-09-09,app,refund,High,Standard,"I want to return the mixer grinder, it is unused.",Open
+TCK-1015,2026-09-21,app,warranty,Medium,Standard,"Got the blender repaired locally, warranty still valid?",Pending customer
+TCK-1016,2026-09-01,app,warranty,Medium,Gold,Mattress is sagging after 2 years.,Resolved
+TCK-1017,2026-09-07,phone,refund,Low,Standard,Refund not received after 10 days.,Resolved
+TCK-1018,2026-09-30,app,product,Low,Gold,Is the cookware set induction compatible?,Resolved
+TCK-1019,2026-09-29,chat,warranty,Medium,Standard,Microwave stopped working after 8 months.,Pending customer
+TCK-1020,2026-09-12,app,product,Low,Gold,Is the 6-seater dining table solid wood?,Open
+TCK-1021,2026-09-08,chat,shipping,Low,Silver,Do you deliver to Coimbatore by tomorrow?,Resolved
+TCK-1022,2026-09-01,chat,warranty,Medium,Standard,Microwave stopped working after 8 months.,Pending customer
+TCK-1023,2026-09-05,email,warranty,Medium,Standard,"Got the blender repaired locally, warranty still valid?",Resolved
+TCK-1024,2026-09-13,email,product,Medium,Standard,Is the cookware set induction compatible?,Open
+TCK-1025,2026-09-03,chat,shipping,Medium,Gold,Where is my order? No tracking link yet.,Resolved
+TCK-1026,2026-09-04,email,refund,High,Gold,"I want to return the mixer grinder, it is unused.",Resolved
+TCK-1027,2026-09-03,chat,refund,High,Silver,Refund not received after 10 days.,Pending customer
+TCK-1028,2026-09-12,phone,warranty,Medium,Gold,Mattress is sagging after 2 years.,Resolved
+TCK-1029,2026-09-16,app,product,Medium,Gold,What is the capacity of the air fryer?,Open
+TCK-1030,2026-09-24,phone,warranty,Medium,Standard,"Sofa leg broke, is it under warranty?",Pending customer
+TCK-1031,2026-09-07,phone,refund,Low,Standard,"I want to return the mixer grinder, it is unused.",Pending customer
+TCK-1032,2026-09-21,email,warranty,High,Silver,Microwave stopped working after 8 months.,Open
+TCK-1033,2026-09-25,chat,warranty,High,Standard,Microwave stopped working after 8 months.,Pending customer
+TCK-1034,2026-09-20,chat,shipping,Low,Silver,Do you deliver to Coimbatore by tomorrow?,Open
+TCK-1035,2026-09-12,email,product,Low,Silver,Is the cookware set induction compatible?,Resolved
+TCK-1036,2026-09-23,phone,shipping,Medium,Standard,Express delivery was late by 2 days.,Resolved
+TCK-1037,2026-09-08,email,refund,Low,Silver,Refund not received after 10 days.,Resolved
+TCK-1038,2026-09-16,email,shipping,Medium,Standard,Express delivery was late by 2 days.,Pending customer
+TCK-1039,2026-09-27,email,refund,Medium,Standard,Refund not received after 10 days.,Resolved
+TCK-1040,2026-09-14,phone,shipping,Low,Standard,Can you ship to Dubai?,Resolved
